@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 dd
 ddddd
+=======
+<<<<<<< Updated upstream
+dd
+=======
+dd
+ddddd
+ccc
+>>>>>>> Stashed changes
+>>>>>>> event1
