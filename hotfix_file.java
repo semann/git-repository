@@ -1,2 +1,2 @@
 hotfix file
-Eddit on master
+Edit on master
